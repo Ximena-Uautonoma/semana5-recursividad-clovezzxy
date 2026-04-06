@@ -13,9 +13,6 @@ def factorial_ciclo(n):
         factorial *= i
     return factorial
         
-    
-    
-
 
 def factorial_recursivo(n):
     if n == 0:
