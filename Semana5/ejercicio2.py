@@ -19,4 +19,5 @@ def suma_recursiva(n):
         return 1
     else:
         return suma_recursiva(n - 1) + n
+print(suma_ciclo(5))
 print(suma_recursiva(5))
