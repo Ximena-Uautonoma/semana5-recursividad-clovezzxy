@@ -8,7 +8,6 @@ Debe implementar:
 """
 
 def suma_ciclo(n):
- def suma_ciclo(n):
     suma = 0
     for i in range(n):
         suma += (i + 1)
